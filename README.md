@@ -1,4 +1,3 @@
-# Celda para generar README.md
 readme_content = """# Sistema de Recuperación de Información - Examen Primer Bimestre
 
 ## 📋 Información del Estudiante
